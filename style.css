@@ -1,0 +1,99 @@
+body{
+    background: linear-gradient(to right,rgb(221, 134, 202),rgba(255, 187, 0, 0.514));
+}
+h1{
+    font-family: sans-serif;
+    position: relative;
+    left: 10px;
+    top: 10px;
+    
+}
+.styles{
+    position: relative;
+    left: 170px;
+    bottom: 140px;
+    border-radius: 5px;
+    height: 60px;
+    width:405px;
+    background-color:black;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+  
+}
+#h1{
+position: relative;
+top: 20px;
+left: 40px;
+
+}
+.header{
+
+    font-family: sans-serif;
+    position: relative;
+    bottom: 270px;
+    left: 130px;
+    color: black;
+    background-color:white;
+    height: 65px;
+    width: 420px;
+    border-radius: 5px;
+    
+}
+.changeBackground{
+    height: 170px;
+    width: 60px;
+    border-radius: 35px;
+    margin-top: 105px;
+    margin-left: 20px;
+    background-color:rgb(224, 221, 221);  
+    
+}
+#a{
+background-color: red;
+color: red;
+height: 30px;
+width: 30px;
+border-radius: 100px;
+position: relative;
+top: 10px;
+left: 15px;
+border: none;
+
+}
+#b{
+    font-size: 0;
+    border: none;
+    background-color: yellow;
+    height: 30px;
+    width: 30px;
+    color: yellow;
+    border-radius: 100px;
+    position: relative;
+    top: 20px;
+    left: 15px;
+}
+#c{
+    font-size: 0;
+    border: none;
+    position: relative;
+    top: 30px;
+    left: 15px;
+    height: 30px;
+    width: 30px;
+    border-radius: 20px;
+    color: rgba(13, 247, 13, 0.863);
+    background-color:rgba(13, 247, 13, 0.863);
+}
+
+#d{
+    
+    border: none;
+    position: relative;
+    top: 40px;
+    left: 15px;
+    height: 30px;
+    width: 30px;
+    border-radius: 20px;
+    background-color:blue;
+    color: blue;
+}
